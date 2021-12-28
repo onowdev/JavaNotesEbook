@@ -11,6 +11,8 @@ public class TypeConvertionSatu {
 
         System.out.println(byteVar);
         System.out.println(shortVar);
+        System.out.println(intVar);
+        System.out.println(longVar);
         System.out.println(doubleVar);
     }
 
