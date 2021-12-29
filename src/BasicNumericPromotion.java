@@ -1,4 +1,4 @@
-public class BasicNumericPromotion {
+/*public class BasicNumericPromotion {
     public static void main(String[] args) {
         System.out.println(int1);
     }
@@ -13,3 +13,4 @@ public class BasicNumericPromotion {
         int1 = char1 + char2;
     }
 }
+*/
