@@ -8,7 +8,7 @@ public class AddInputInteger {
         int number1; // First integer to add
         int number2; // Second integer to add
 
-        int sum = 0;// sum of number1 and number2
+       // int sum = 0;// sum of number1 and number2
 
         System.out.println("Masukan ANgka pertama");
         number1 = input.nextInt();
@@ -17,6 +17,6 @@ public class AddInputInteger {
         number2 = input.nextInt();
 
 
-        System.out.printf("Sum is %d%n", sum);
+        System.out.printf("Sum is %d%n", (number1 + number2));
     }
 }
