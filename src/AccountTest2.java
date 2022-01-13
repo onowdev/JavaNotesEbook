@@ -1,5 +1,4 @@
-import java.util.Scanner;
-
+/*import java.util.Scanner;
 public class AccountTest2 {
     public static void main(String[] args) {
         Account account1 = new Account("Andra sugiono", 10000.00);
@@ -21,3 +20,4 @@ public class AccountTest2 {
         System.out.printf("%s balance: $%.2f%n", account1.getName(),account1.getbalance());
     }
 }
+*/
