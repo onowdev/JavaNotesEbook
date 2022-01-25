@@ -1,4 +1,4 @@
-public class LinkListCircle {
+/* public class LinkListCircle {
 
         private static class Node<E> {
             Node<E> next;
@@ -61,3 +61,4 @@ public class LinkListCircle {
 
     }
 }
+*/
