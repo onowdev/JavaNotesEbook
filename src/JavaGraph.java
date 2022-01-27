@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class JavaGraph{
     private final int vertices;
     private int[][] adjacency_matrix;
@@ -63,3 +63,4 @@ public class JavaGraph{
             sc.close();
         }
 }
+*/
