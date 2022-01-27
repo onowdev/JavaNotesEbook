@@ -1,6 +1,6 @@
 public class BmiJava {
     //Deklarasi Variabel
-    double weight, height, BMI;
+    double weight, height;
 
     public BmiJava(double w, double h){
         weight= w;
