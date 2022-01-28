@@ -1,4 +1,4 @@
-package com.ags.hcrank;
+/*package com.ags.hcrank;
 
 import java.util.*;
 public class IfElseJava {
@@ -21,3 +21,4 @@ public class IfElseJava {
         Scanner.close();
     }
 }
+*/
